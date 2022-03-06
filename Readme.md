@@ -17,7 +17,7 @@ Se inicia el servidor con el comando:
 
 SERVIDOR ANGULAR [FRONTEND]
 
-Estando desde la carpeta raíz, ingresamos a la carpeta front_end
+Estando desde la carpeta raíz, ingresamos al directorio 'ng/''
 
 -> cd frontend
 
