@@ -21,7 +21,7 @@ Estando desde la carpeta raíz, ingresamos a la carpeta front_end
 
 -> cd frontend
 
-Deste este path 'frontend/' ejecutamos el comando :
+Deste este path 'ng/' ejecutamos el comando :
 
 -> npm install
 
