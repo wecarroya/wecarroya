@@ -1,0 +1,41 @@
+:root {
+    --white: #afafaf;
+    --red: #e31b23;
+    --bodyColor: #292a2b;
+    --borderFormEls: hsl(0, 0%, 10%);
+    --bgFormEls: hsl(0, 0%, 14%);
+    --bgFormElsFocus: hsl(0, 7%, 20%);
+  }
+   
+  * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    outline: none;
+  }
+   
+  a {
+    color: inherit;
+  }
+   
+  input,
+  select,
+  textarea,
+  button {
+    font-family: inherit;
+    font-size: 100%; 
+  }
+   
+  button,
+  label {
+    cursor: pointer;
+  }
+   
+   
+  textarea {
+    resize: none;
+  }
+   
+  ul {
+    list-style: none;
+  }
